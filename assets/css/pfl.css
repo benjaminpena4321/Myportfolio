@@ -51,9 +51,9 @@
 	min-height: 
 }
 
- /*.wire{
+/* .wire{
 	border: 1px solid red;	
-}*/
+} */
 
 .wire5 {
 	/*float:left;*/
@@ -144,8 +144,8 @@
 	/*text-align: center;*/
 	height: 25%;
 	border: solid 5px rgba(0,0,0, 0.1);
-	width: 2545
-	margin-left: 40%;
+	width: 2545;
+	margin-left: 17%;
 	margin-top:10%;
 	border-width:20px;  
     border-style:double;
